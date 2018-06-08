@@ -1,25 +1,8 @@
-# ReduxSimpleStarter
+visit http://omdbapi.com/ get an api key and paste your key in
+'/src/actions/index.js' file under the comment line,
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+then run npm install on your command line to install dependencies
 
-### Getting Started
+finally run npm run start to start your application
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+thankyou -Daniel
